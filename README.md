@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bun,tailwind,postgres,sqlite,git,sentry,vercel)](https://skillicons.dev)
 
 ## 👀 Currently Exploring:
-[![My Skills](https://skillicons.dev/icons?i=astro,elysia,go,htmx,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro,elysia,go,htmx,threejs,remix,vite)](https://skillicons.dev)
 
 ## 🚀 Environment:
 [![My Skills](https://skillicons.dev/icons?i=apple,mint,vscode)](https://skillicons.dev)
